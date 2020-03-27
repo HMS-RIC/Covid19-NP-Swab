@@ -1,5 +1,5 @@
-# The [Covid-19 Swab project](github.com/rarnaout/Covidswab) has moved
-For the latest info visit: [github.com/rarnaout/Covidswab](github.com/rarnaout/Covidswab)
+# The [Covid-19 Swab project](https://github.com/rarnaout/Covidswab) has moved
+For the latest info visit: [github.com/rarnaout/Covidswab](https://github.com/rarnaout/Covidswab)
 
 ## The project has not changed at all, just the URL
 In the past two weeks the project has grown from just a few individuals to an amazing multi-institute collaboration.
